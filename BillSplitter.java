@@ -68,3 +68,30 @@ public class BillSplitter {
         }
     }
 }
+
+
+              OUTPUT
+              
+             
+Total Amount for Each Service:
+LUNCH: 2500
+MOVIE TICKET: 1000
+TEA/COFFEE: 750
+Total Amount for Each Individual:
+POOJI: 1000
+SNEHA: 750
+SREE: 2500
+HARINI: 375
+Amounts to Pay/Receive:
+POOJI needs to receive 250 from SNEHA
+POOJI needs to pay 1500 to SREE
+POOJI needs to receive 625 from HARINI
+SNEHA needs to pay 250 to POOJI
+SNEHA needs to pay 1750 to SREE
+SNEHA needs to receive 375 from HARINI
+SREE needs to receive 1500 from POOJI
+SREE needs to receive 1750 from SNEHA
+SREE needs to receive 2125 from HARINI
+HARINI needs to pay 625 to POOJI
+HARINI needs to pay 375 to SNEHA
+HARINI needs to pay 2125 to SREE
